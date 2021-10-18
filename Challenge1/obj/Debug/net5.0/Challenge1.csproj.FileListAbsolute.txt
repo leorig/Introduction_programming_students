@@ -1,0 +1,16 @@
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\Challenge1.exe
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\Challenge1.deps.json
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.json
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.dev.json
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\Challenge1.dll
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\ref\Challenge1.dll
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\bin\Debug\net5.0\Challenge1.pdb
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.dll
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\ref\Challenge1.dll
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.pdb
+C:\Users\Leo\Desktop\Work\intro_progra\Challenges_students\Challenge1\obj\Debug\net5.0\Challenge1.genruntimeconfig.cache
