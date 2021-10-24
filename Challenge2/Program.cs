@@ -1,9 +1,9 @@
 ﻿using System;
 abstract class Shape
-    {               
-        public abstract double CalculateArea();
+{               
+    public abstract double CalculateArea();
        
-    }
+}
 
     class Square : Shape
     {
